@@ -159,6 +159,11 @@ ENV/
 env.bak/
 venv.bak/
 
+# readme files
+old_readme.md
+finance_readme.md
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
